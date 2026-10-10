@@ -1,0 +1,4 @@
+employee_email,attendance_date,check_in,check_out,status
+aarav.mehta@example.com,2026-09-28,09:02,17:31,Present
+maya.iyer@example.com,2026-09-28,09:12,17:04,Remote
+kabir.shah@example.com,2026-09-28,09:20,,Leave
